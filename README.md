@@ -9,3 +9,5 @@ I learned that version control is an **essential part** of my career as web deve
 - Another bullet
 - Another bullet
 - Another bullet
+
+![Ein halb aufgeklapptes MacBook](https://user-images.githubusercontent.com/4458383/196183954-008492fc-dd34-405b-a0a9-4e014f10a978.jpg)
